@@ -11,10 +11,4 @@ One kind of problem that neural networks are used to solve is **classification**
 
 y, being what we're trying to predict is called the label, and in the case of binary classification can take values such as 0 or 1.
 
-\documentclass{standalone}
-\usepackage{upquote}% getting the right grave ` (and not ‘)!
-\begin{document}
-\begin{tabular}{lcc}
-\hat y
-\end{tabular}
-\end{document}
+ŷ
