@@ -13,9 +13,9 @@ y, being what we're trying to predict is called the label, and in the case of bi
 
 Predictions ca be of the form
 
-        {   1, if Wx + b >= 0
+`        {   1, if Wx + b >= 0
 ŷ   =   
-            0, if Wx + b < 0    }
+            0, if Wx + b < 0    } `
             
 
 Our predicted models can also be of higher dimensions, in which case the boundzry will be in the form  
