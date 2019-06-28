@@ -13,7 +13,8 @@ y, being what we're trying to predict is called the label, and in the case of bi
 
 Predictions can be of the form
            
-ŷ   =      1, if Wx + b >= 0
+ŷ   =      1, if Wx + b >= 0;
+
            0, if Wx + b < 0    
             
 
