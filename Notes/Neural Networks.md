@@ -11,10 +11,9 @@ One kind of problem that neural networks are used to solve is **classification**
 
 y, being what we're trying to predict is called the label, and in the case of binary classification can take values such as 0 or 1.
 
-Predictions ca be of the form
-
-           1, if Wx + b >= 0
-ŷ   =   
+Predictions can be of the form
+           
+ŷ   =      1, if Wx + b >= 0
            0, if Wx + b < 0    
             
 
