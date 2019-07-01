@@ -11,3 +11,6 @@
 
 ### Day 3: June 30, 2019
 **Today's Progress**: Worked through the first Notebook Lab of lesson 2 : Introduction to Neural Networks and Implemented the Gradient Descent Algorithm 🤩.
+
+### Day 4: July 1, 2019
+**Today's Progress**: Worked through the second Notebook Lab of lesson 2 : Introduction to Neural Networks which was to predict Student Admissions with Neural Networks Lab.🤩.
