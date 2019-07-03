@@ -17,3 +17,7 @@
 
 ### Day 5: July 2, 2019
 **Today's Progress**: Continued working through the second Notebook Lab of lesson 2 : Introduction to Neural Networks which was to predict Student Admissions with Neural Networks Lab.🤩.
+
+
+### Day 6: July 3, 2019
+**Today's Progress**:Finished working through the second Notebook Lab of lesson 2 : Introduction to Neural Networks which was to predict Student Admissions with Neural Networks Lab.🤩.
