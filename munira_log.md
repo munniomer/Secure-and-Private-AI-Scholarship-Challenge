@@ -24,3 +24,9 @@
 
 ### Day 7: July 4, 2019
 **Today's Progress**: Started the Intro to Descriptive Statistics free course on Udacity to sharpen my statistics skills for data analysis.🤩.
+
+
+### Day 8: July 5, 2019
+**Today's Progress**: Continued learning the Intro to Descriptive Statistics free course on Udacity to sharpen my statistics skills for data analysis.  Covered 80% of lesson 1 🤩.
+
+
