@@ -30,3 +30,8 @@
 **Today's Progress**: Continued learning the Intro to Descriptive Statistics free course on Udacity to sharpen my statistics skills for data analysis.  Covered 80% of lesson 1 🤩.
 
 
+### Day 9: July 6, 2019
+**Today's Progress**: Covered 91% of lesson 1 of Inro to Descriptive Statistics free course on Udacity🤩.
+
+
+
