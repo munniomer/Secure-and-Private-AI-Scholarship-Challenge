@@ -33,5 +33,6 @@
 ### Day 9: July 6, 2019
 **Today's Progress**: Covered 91% of lesson 1 of Inro to Descriptive Statistics free course on Udacity🤩.
 
-
+### Day 10: July 7, 2019
+**Today's Progress**: Finished lesson 1 of Inro to Descriptive Statistics free course on Udacity🤩.
 
