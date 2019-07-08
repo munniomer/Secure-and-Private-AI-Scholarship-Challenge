@@ -36,3 +36,6 @@
 ### Day 10: July 7, 2019
 **Today's Progress**: Finished lesson 1 of Inro to Descriptive Statistics free course on Udacity🤩.
 
+
+### Day 11: July 8, 2019
+**Today's Progress**: Started Lesson 2 Inro to Descriptive Statistics free course on Udacity 🤩..
