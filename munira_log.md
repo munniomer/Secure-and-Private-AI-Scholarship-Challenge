@@ -44,3 +44,7 @@
 ### Day 12: July 9, 2019
 **Today's Progress**: Continued Lesson 2 Intro to Descriptive Statistics free course on Udacity 🤩..
 
+
+### Day 13: July 10, 2019
+**Today's Progress**: Worked on some data exploratory on Titanic dataset on Kaggle. 🤩..
+
