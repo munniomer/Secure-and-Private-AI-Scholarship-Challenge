@@ -48,3 +48,6 @@
 ### Day 13: July 10, 2019
 **Today's Progress**: Worked on some data exploratory on Titanic dataset on Kaggle. 🤩..
 
+
+### Day 14: July 11, 2019
+**Today's Progress**: Continued working on some of the quizzes of Lesson 2 Intro to Descriptive Statistics . 🤩..
