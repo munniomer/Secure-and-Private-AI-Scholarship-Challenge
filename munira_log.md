@@ -51,3 +51,9 @@
 
 ### Day 14: July 11, 2019
 **Today's Progress**: Continued working on some of the quizzes of Lesson 2 Intro to Descriptive Statistics . 🤩..
+
+### Day 15: July 12, 2019
+
+1. Covered 73% of Lesson 2 of Intro to Descriptive Statistics Free course on Udacity.
+
+2.Had the 5th virtual meetup with @Mohona @Marwa @Richaldo_Elias from #sg_spaic-kagglers where we discussed our progress towards the Titanic project we are working on.
