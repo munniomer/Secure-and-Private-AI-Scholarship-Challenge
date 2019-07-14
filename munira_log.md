@@ -63,3 +63,12 @@
 1. Covered 91% of Lesson 2 Intro to Descriptive Statistics
 
 2.We finally launched the virtual hackathon which we've been preparing this past week at #sg_hackathon_orgnizrs. A big shout to the hard working organizers and judges and also the amazing participants.🌺❤️
+
+
+### Day 17: July 14, 2019
+
+1. Helped with collecting the test data set for *Hackathon Blossom* for the #sg_hackathon-orgnizrs.
+
+2. Participated the weekly virtual meetup of #wmn_who_code hosted by @Shubhangi Jena @Helena Barmer
+
+3. Participated the weekly virtual meetup of the #sg_dlstarguys
