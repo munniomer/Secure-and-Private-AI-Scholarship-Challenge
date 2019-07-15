@@ -72,3 +72,11 @@
 2. Participated the weekly virtual meetup of #wmn_who_code hosted by @Shubhangi Jena @Helena Barmer
 
 3. Participated the weekly virtual meetup of the #sg_dlstarguys
+
+### Day 18: July 14, 2019
+
+1. Finished Lesson 2 Intro to Descriptive Statistics course on Udacity
+
+2. Attended webinar with Robert Wagner which was very interesting.
+
+3. Did some work on the #sg_hackathon_orgnizrs channel.
