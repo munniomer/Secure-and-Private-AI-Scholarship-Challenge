@@ -73,10 +73,17 @@
 
 3. Participated the weekly virtual meetup of the #sg_dlstarguys
 
-### Day 18: July 14, 2019
+### Day 18: July 15, 2019
 
 1. Finished Lesson 2 Intro to Descriptive Statistics course on Udacity
 
 2. Attended webinar with Robert Wagner which was very interesting.
 
 3. Did some work on the #sg_hackathon_orgnizrs channel.
+
+
+### Day 19: July 16, 2019
+
+1. Started Lesson 3 of Intro to Descriptive Statistics course on Udacity.
+
+2. Had a virtual meetup with @Shubhendu Mishra @Mohona @Labiba @Richaldo_Elias @Marwa from #sg_spaic-kagglers.We chose **Digit Recognizer** as our project to work on this week.
