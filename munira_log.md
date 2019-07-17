@@ -87,3 +87,8 @@
 1. Started Lesson 3 of Intro to Descriptive Statistics course on Udacity.
 
 2. Had a virtual meetup with @Shubhendu Mishra @Mohona @Labiba @Richaldo_Elias @Marwa from #sg_spaic-kagglers.We chose **Digit Recognizer** as our project to work on this week.
+
+### Day 20: July 17, 2019
+
+1. Continued working on the quizzes of Lesson 3 : Intro to Descriptive Statistics course on Udacity.
+
