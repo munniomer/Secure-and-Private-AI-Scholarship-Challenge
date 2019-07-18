@@ -92,3 +92,8 @@
 
 1. Continued working on the quizzes of Lesson 3 : Intro to Descriptive Statistics course on Udacity.
 
+
+### Day 21: July 18, 2019
+
+1. Covered 90% of Lesson 3 : Intro to Descriptive Statistics course on Udacity.
+
