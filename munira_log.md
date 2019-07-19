@@ -97,3 +97,8 @@
 
 1. Covered 90% of Lesson 3 : Intro to Descriptive Statistics course on Udacity.
 
+
+### Day 22: July 19, 2019
+
+Finished Lesson 3 of Intro to Descriptive Statistics course on Udacity.
+
