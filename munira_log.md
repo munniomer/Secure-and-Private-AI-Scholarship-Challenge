@@ -107,3 +107,6 @@ Finished Lesson 3 of Intro to Descriptive Statistics course on Udacity.
 
 Started Lesson 4 of Intro to Descriptive Statistics course on Udacity.
 
+
+### Day 24: July 21, 2019
+Continued studying Lesson 4 of Intro to Descriptive Statistics course on Udacity.
