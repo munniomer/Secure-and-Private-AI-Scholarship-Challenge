@@ -113,3 +113,9 @@ Continued studying Lesson 4 of Intro to Descriptive Statistics course on Udacity
 
 ### Day 25: July 22, 2019
 Finished Lesson 4 of Intro to Descriptive Statistics course on Udacity.
+
+### Day 26: July 23, 2019
+1. Completed week 1 of Mathematics for Machine Learning: Linear Algebra on Coursera as part of #sg_dlstarguys 
+2. Started the famous Machine Learning course on Coursera by Andrew NG.
+3. Started working on a new technical blog post on Medium.
+
