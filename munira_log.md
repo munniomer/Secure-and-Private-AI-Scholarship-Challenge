@@ -119,3 +119,7 @@ Finished Lesson 4 of Intro to Descriptive Statistics course on Udacity.
 2. Started the famous Machine Learning course on Coursera by Andrew NG.
 3. Started working on a new technical blog post on Medium.
 
+### Day 27: July 24, 2019
+1. Started working on Week 2 of Mathematics for Machine Learning: Linear Algebra on Coursera as part of #sg_dlstarguys 
+2. Continued working on Week 1 of the famous Machine Learning course on Coursera by Andrew NG.
+3. Finished working on the first draft of my new technical blog post on Medium.
