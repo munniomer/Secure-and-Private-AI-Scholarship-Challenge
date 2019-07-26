@@ -125,6 +125,11 @@ Finished Lesson 4 of Intro to Descriptive Statistics course on Udacity.
 3. Finished working on the first draft of my new technical blog post on Medium.
 
 
-### Day 28: July 29, 2019
+### Day 28: July 25, 2019
 1. Worked on Dot product of vectors Quiz of Week 2 of Mathematics for Machine Learning: Linear Algebra on Coursera as part of #sg_dlstarguys 
 2. Helped with announcing the winners for last weeks *Hackathon Auto-Matic* for the #sg_hackathon-orgnizrs.
+
+
+### Day 29: July 26, 2019
+1. Finished Week 2 of Mathematics for Machine Learning: Linear Algebra on Coursera as part of #sg_dlstarguys 
+2. Helped with the announcement of *Hackathon Sentimento* which is this week's Hackathon theme on #sg_hackathon-orgnizrs 
