@@ -133,3 +133,8 @@ Finished Lesson 4 of Intro to Descriptive Statistics course on Udacity.
 ### Day 29: July 26, 2019
 1. Finished Week 2 of Mathematics for Machine Learning: Linear Algebra on Coursera as part of #sg_dlstarguys 
 2. Helped with the announcement of *Hackathon Sentimento* which is this week's Hackathon theme on #sg_hackathon-orgnizrs 
+
+
+### Day 30: July 27, 2019
+1.Started Week 3 of Mathematics for Machine Learning: Linear Algebra on Coursera as part of #sg_dlstarguys 
+2. Helped with launching of *Hackathon Sentimento* which is this week's Hackathon theme on #sg_hackathon-orgnizrs 
