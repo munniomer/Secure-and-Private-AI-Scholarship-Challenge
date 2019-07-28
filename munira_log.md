@@ -138,3 +138,12 @@ Finished Lesson 4 of Intro to Descriptive Statistics course on Udacity.
 ### Day 30: July 27, 2019
 1.Started Week 3 of Mathematics for Machine Learning: Linear Algebra on Coursera as part of #sg_dlstarguys 
 2. Helped with launching of *Hackathon Sentimento* which is this week's Hackathon theme on #sg_hackathon-orgnizrs 
+
+
+### Day 31: July 28, 2019
+1. Continued working on Week 3 of Mathematics for Machine Learning: Linear Algebra on Coursera as part of #sg_dlstarguys.
+2. Had a virtual meetup with the hackathon team @Arka @annaSWE @Ivy @Mohona @Mushrifah Hasan of #sg_hackathon-orgnizrs and planning for the upcoming Hackathon :heart_eyes:
+3. Had a virtual meetup with my writing partners @Shubhangi Jena @Mushrifah Hasan @Shanmugapriya where we discussed our plan for weekly blog writing
+4. Participated the weekly virtual meetup of #wmn_who_code with these wonderful ladies @Ivy @Jess @Aarthi Alagammai @cibaca @Urvi Soni @Temitope Oladokun @Munira Omar @Abbie Weisenbloom @Anju Mercian @Aisha Khatun @Mushrifah Hasan @Seeratpal K. Jaura @Nancy Al Aswad @Shubhangi Jena @Sky @Agata [OR, USA] @Shanmugapriya @Joyce Obi @Suparna S Nair @Helena Barmer @Shubhangi Jena :heart:
+
+
