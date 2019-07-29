@@ -147,3 +147,10 @@ Finished Lesson 4 of Intro to Descriptive Statistics course on Udacity.
 4. Participated the weekly virtual meetup of #wmn_who_code with these wonderful ladies @Ivy @Jess @Aarthi Alagammai @cibaca @Urvi Soni @Temitope Oladokun @Munira Omar @Abbie Weisenbloom @Anju Mercian @Aisha Khatun @Mushrifah Hasan @Seeratpal K. Jaura @Nancy Al Aswad @Shubhangi Jena @Sky @Agata [OR, USA] @Shanmugapriya @Joyce Obi @Suparna S Nair @Helena Barmer @Shubhangi Jena :heart:
 
 
+
+### Day 32: July 29, 2019
+1. Continued Studying Week 3 of Mathematics for Machine Learning: Linear Algebra on Coursera as part of #sg_dlstarguys.
+
+2. I attended the #sg_dl-goodfellows meetup today with  @Jess @shahnoza @AbdElrhman  @Alexander Villasoto @Shivam Raisharma @David Ashraf @Sarah Majors @Hitoishi Das @Sourav @Nouran El Kassas  @Labiba @Md. Mahedi Hasan Riday and it was great
+
+3. Participated the weekly virtual meetup of #sg_dlstarguys with @sourav kumar @Mohona @Calincan Mircea Ioan @Oudarjya Sen Sarma @Aarthi Alagammai @Archit @Labiba @Ashish Shrivastava @Govind @Sharim
