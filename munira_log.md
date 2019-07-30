@@ -154,3 +154,6 @@ Finished Lesson 4 of Intro to Descriptive Statistics course on Udacity.
 2. I attended the #sg_dl-goodfellows meetup today with  @Jess @shahnoza @AbdElrhman  @Alexander Villasoto @Shivam Raisharma @David Ashraf @Sarah Majors @Hitoishi Das @Sourav @Nouran El Kassas  @Labiba @Md. Mahedi Hasan Riday and it was great
 
 3. Participated the weekly virtual meetup of #sg_dlstarguys with @sourav kumar @Mohona @Calincan Mircea Ioan @Oudarjya Sen Sarma @Aarthi Alagammai @Archit @Labiba @Ashish Shrivastava @Govind @Sharim
+
+### Day 33: July 30, 2019
+Started PyTorch for Deep Learning and Computer Vision course on Udemy
