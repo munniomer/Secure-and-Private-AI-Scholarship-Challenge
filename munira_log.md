@@ -157,3 +157,7 @@ Finished Lesson 4 of Intro to Descriptive Statistics course on Udacity.
 
 ### Day 33: July 30, 2019
 Started PyTorch for Deep Learning and Computer Vision course on Udemy
+
+
+### Day 33: July 30, 2019
+Started PyTorch for Deep Learning and Computer Vision course on Udemy
