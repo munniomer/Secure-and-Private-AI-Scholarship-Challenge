@@ -159,5 +159,9 @@ Finished Lesson 4 of Intro to Descriptive Statistics course on Udacity.
 Started PyTorch for Deep Learning and Computer Vision course on Udemy
 
 
-### Day 33: July 30, 2019
-Started PyTorch for Deep Learning and Computer Vision course on Udemy
+### Day 34: July 31, 2019
+Worked on Style Transfer and submitted the style transfer project to the #sg_project-t-shirt 
+
+### Day 35: Aug 1, 2019
+1. Studied how to scrape data from twitter using python . Learnt about Twitter API and how it works 
+2. Helped announcing the winners of last week's hackathon of #sg_hackathon-orgnizrs .  
