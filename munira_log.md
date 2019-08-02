@@ -165,3 +165,6 @@ Worked on Style Transfer and submitted the style transfer project to the #sg_pro
 ### Day 35: Aug 1, 2019
 1. Studied how to scrape data from twitter using python . Learnt about Twitter API and how it works 
 2. Helped announcing the winners of last week's hackathon of #sg_hackathon-orgnizrs .  
+
+### Day 36: Aug 2 , 2019
+Started learning OpenCV with Python for Image and Video Analysis for the Challenge showcase project
