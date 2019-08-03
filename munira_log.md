@@ -168,3 +168,6 @@ Worked on Style Transfer and submitted the style transfer project to the #sg_pro
 
 ### Day 36: Aug 2 , 2019
 Started learning OpenCV with Python for Image and Video Analysis for the Challenge showcase project
+
+### Day 37: Aug 3 , 2019
+Finsihed the lessons of Secure and Private course 
