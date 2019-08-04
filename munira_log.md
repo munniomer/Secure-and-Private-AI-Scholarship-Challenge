@@ -171,3 +171,10 @@ Started learning OpenCV with Python for Image and Video Analysis for the Challen
 
 ### Day 37: Aug 3 , 2019
 Finsihed the lessons of Secure and Private course 
+
+
+### Day 38: Aug 4 , 2019
+1. Participated in the weekly virtual meetup of #wmn_who_code with these amazing ladies @Agata [OR, USA] @Helena Barmer @Jess @Ivy @cibaca@Aisha Khatun @Joyce Obi @Yujin @Temitope Oladokun@Frida @Mushrifah Hasan @Sky @Seeratpal K. Jaura @Joyce
+
+2. Continued styding about OpenCV library for the showcase challenge project
+
