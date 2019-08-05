@@ -178,3 +178,7 @@ Finsihed the lessons of Secure and Private course
 
 2. Continued styding about OpenCV library for the showcase challenge project
 
+
+### Day 39: Aug 5 , 2019
+1. Had a virtual meetup with my study group @Rumanu @Shahana @Apoorva Patil @Aarthi Alagammai where we discussed a project to work on for the showcase challenge
+2. Continued styding about OpenCV library for the showcase challenge project
