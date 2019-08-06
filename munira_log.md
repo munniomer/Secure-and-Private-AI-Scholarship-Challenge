@@ -186,6 +186,8 @@ Finsihed the lessons of Secure and Private course
 
 ### Day 40: Aug 6 , 2019
 1. Scrapped data from twitter for the showcase challenge project
-1. Had a virtual meetup with @Labiba @Mohona @Aarthi Alagammai @Droid 
 2. Continued styding about OpenCV library for the showcase challenge project
+3. Had a virtual meetup with @Labiba @Mohona @Aarthi Alagammai @Droid where we discussed about our project.
+4. Attended the weekly virtual meetup of #sg_dlstarguys with @sourav kumar @Labiba @Diganta@Aarthi Alagammai @Anju Mercian @Ashish Shrivastava @Govind @Mohona  @Seeratpal K. Jaura @shahnoza @Oudarjya Sen Sarma @Archit  @Aniket Mitra  @Diganta and we discussed the mathematics we are taking.
+5.Had a virtual meetup with @Shubhendu Mishra @Aarthi Alagammai @Ruchika Khemka @Anju Mercian @Bhadresh Savani where we discussed the computer vision we are working on together.
 
