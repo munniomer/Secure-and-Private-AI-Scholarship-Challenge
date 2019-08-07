@@ -191,3 +191,6 @@ Finsihed the lessons of Secure and Private course
 4. Attended the weekly virtual meetup of #sg_dlstarguys with @sourav kumar @Labiba @Diganta@Aarthi Alagammai @Anju Mercian @Ashish Shrivastava @Govind @Mohona  @Seeratpal K. Jaura @shahnoza @Oudarjya Sen Sarma @Archit  @Aniket Mitra  @Diganta and we discussed the mathematics we are taking.
 5.Had a virtual meetup with @Shubhendu Mishra @Aarthi Alagammai @Ruchika Khemka @Anju Mercian @Bhadresh Savani where we discussed the computer vision we are working on together.
 
+### Day 41: Aug 7 , 2019
+1. Studied about NLP.
+2. Started cleaning the Twitter dataset for depression detection project
