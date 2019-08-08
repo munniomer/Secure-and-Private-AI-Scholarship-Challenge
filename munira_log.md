@@ -194,3 +194,7 @@ Finsihed the lessons of Secure and Private course
 ### Day 41: Aug 7 , 2019
 1. Studied about NLP.
 2. Started cleaning the Twitter dataset for depression detection project
+
+
+### Day 42: Aug 8 , 2019
+1. Continued working the show case project challenge
