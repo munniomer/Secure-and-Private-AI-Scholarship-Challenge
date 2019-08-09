@@ -200,5 +200,5 @@ Finsihed the lessons of Secure and Private course
 1. Continued working the show case project challenge
 
 ### Day 43: Aug 9 , 2019
-1. Continued working the show case project challenge
-2. I attended the virtual meetup of #sg_pytorch-robotics 
+1. Continued working on the show case project challenge
+2. I attended the virtual meetup of #sg_pytorch-robotics which was about Deep Reinforcement Learning with @Juan Carlos Kuri Pinto 
