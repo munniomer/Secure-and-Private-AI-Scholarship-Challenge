@@ -198,3 +198,7 @@ Finsihed the lessons of Secure and Private course
 
 ### Day 42: Aug 8 , 2019
 1. Continued working the show case project challenge
+
+### Day 43: Aug 9 , 2019
+1. Continued working the show case project challenge
+2. I attended the virtual meetup of #sg_pytorch-robotics 
