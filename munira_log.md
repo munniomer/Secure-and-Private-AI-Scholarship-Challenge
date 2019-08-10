@@ -202,3 +202,8 @@ Finsihed the lessons of Secure and Private course
 ### Day 43: Aug 9 , 2019
 1. Continued working on the show case project challenge
 2. I attended the virtual meetup of #sg_pytorch-robotics which was about Deep Reinforcement Learning with @Juan Carlos Kuri Pinto 
+
+### Day 44: Aug 10, 2019
+1. Worked on the showcase challenege project
+2. Had a virtual meetup with @Aarthi Alagammai @Labiba @Mohona @Marwa @Droid and we discussed the progress of our showcase project challenge
+3. Had a virtual meetup with @Shahana @Aarthi Alagammai @Rumanu @Apoorva Patil and we discussed also the progress of the project we are working on together
