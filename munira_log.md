@@ -207,3 +207,8 @@ Finsihed the lessons of Secure and Private course
 1. Worked on the showcase challenege project
 2. Had a virtual meetup with @Aarthi Alagammai @Labiba @Mohona @Marwa @Droid and we discussed the progress of our showcase project challenge
 3. Had a virtual meetup with @Shahana @Aarthi Alagammai @Rumanu @Apoorva Patil and we discussed also the progress of the project we are working on together
+
+
+### Day 45: Aug 11, 2019
+1. Cleaned the Twitter data for the showcase project
+2. Participated the weekly virtual meetup of the #wmn_who_code with these amazing ladies @Susanne Brockmann @cibaca @Jess @Helena Barmer  @Suparna S Nair@Temitope Oladokun @Ivy @Joyce Obi @Anju Mercian @Shubhangi Jena@Mushrifah Hasan @Seeratpal K. Jaura @Aisha Khatun @Frida
