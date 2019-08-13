@@ -216,3 +216,7 @@ Finsihed the lessons of Secure and Private course
 ### Day 46: Aug 12, 2019
 1. Had a virtual meetup with @Aarthi Alagammai and @Bhadresh Savani and we discussed our progress with the project showcase
 2. Continued working the project showcase challenge
+
+### Day 47: Aug 13, 2019
+1. Read an article on Handy, hand detection with OpenCV on Medium.
+2. Continued cleaning some data Twitter manually
