@@ -220,3 +220,6 @@ Finsihed the lessons of Secure and Private course
 ### Day 47: Aug 13, 2019
 1. Read an article on Handy, hand detection with OpenCV on Medium.
 2. Continued cleaning some data Twitter manually
+
+### Day 48: Aug 14, 2019
+Finished reading chapter one of  Deep Learning book by Ian Goodfellow as part of #sg_dl-goodfellows 
