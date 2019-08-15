@@ -223,3 +223,9 @@ Finsihed the lessons of Secure and Private course
 
 ### Day 48: Aug 14, 2019
 Finished reading chapter one of  Deep Learning book by Ian Goodfellow as part of #sg_dl-goodfellows 
+
+
+### Day 49: Aug 15, 2019
+1. Started reading chapter two of Deep Learning book by Ian Goodfellow as part of #sg_dl-goodfellows 
+2.  Had a virtual meetup with @Mohona @Labiba @Marwa @SusanW where we discussed the progress of our project showcase challenge
+3. Participated the virtual meetup of  #sg_dl-goodfellows with @cibaca @Shivam Raisharma @Halwai Aftab Hasan  @Alexander Villasoto @Ankur Bhatia @Sourav @K.S. @David Ashraf@Oudarjya Sen Sarma and we discussed about the book chapters
