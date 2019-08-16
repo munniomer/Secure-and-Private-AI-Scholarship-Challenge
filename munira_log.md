@@ -229,3 +229,8 @@ Finished reading chapter one of  Deep Learning book by Ian Goodfellow as part of
 1. Started reading chapter two of Deep Learning book by Ian Goodfellow as part of #sg_dl-goodfellows 
 2.  Had a virtual meetup with @Mohona @Labiba @Marwa @SusanW where we discussed the progress of our project showcase challenge
 3. Participated the virtual meetup of  #sg_dl-goodfellows with @cibaca @Shivam Raisharma @Halwai Aftab Hasan  @Alexander Villasoto @Ankur Bhatia @Sourav @K.S. @David Ashraf@Oudarjya Sen Sarma and we discussed about the book chapters
+
+### Day 50: Aug 16, 2019
+1. Continu reading chapter two of Deep Learning book by Ian Goodfellow as part of #sg_dl-goodfellows 
+2.  Had a virtual meetup with @Mohona @Labiba @Marwa @SusanW @Aarthi Alagammai where we discussed the progress of our project showcase challenge
+3. Read about Depression Detection using social media data
