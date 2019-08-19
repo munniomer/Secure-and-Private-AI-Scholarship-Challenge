@@ -243,3 +243,6 @@ Finished reading chapter one of  Deep Learning book by Ian Goodfellow as part of
 1. Started reading chapter three of Deep Learning book by Ian Goodfellow as part of #sg_dl-goodfellows.
 2. Participated in the virtual meetup of #wmn_who_code with amazing ladies @Shubhangi Jena @Helena Barmer @Roza @Temitope Oladokun  @Jess @Jess @Munira Omar@SusanW @Ivy @Temitope Oladokun@Amina Assouane @Mohona @Roza@Mushrifah Hasan @Shanmugapriya@Labiba @Anju Mercian @Marwa @Joyce Obi @Aisha Khatun @Seeratpal K. Jaura@Suparna S Nair @Aarthi Alagammai @Sky.
 
+### Day 53: Aug 19, 2019
+1.Had a meetup with @SusanW @Mohona @Aarthi Alagammai @Labiba @Marwa to discuss the showcase project 
+2.Continued reading chapter three of Deep Learning book by Ian Goodfellow as part of #sg_dl-goodfellows.
