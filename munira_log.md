@@ -246,3 +246,6 @@ Finished reading chapter one of  Deep Learning book by Ian Goodfellow as part of
 ### Day 53: Aug 19, 2019
 1.Had a meetup with @SusanW @Mohona @Aarthi Alagammai @Labiba @Marwa to discuss the showcase project 
 2.Continued reading chapter three of Deep Learning book by Ian Goodfellow as part of #sg_dl-goodfellows.
+
+### Day 54: Aug 20, 2019
+1.Finished reading chapter three of Deep Learning book by Ian Goodfellow as part of #sg_dl-goodfellows.
