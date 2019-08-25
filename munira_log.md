@@ -262,3 +262,7 @@ Finished reading chapter one of  Deep Learning book by Ian Goodfellow as part of
 ### Day 58: Aug 24, 2019
 1. Started reading chapter five of Deep Learning book by Ian Goodfellow as part of #sg_dl-goodfellows.
 
+
+### Day 59: Aug 25, 2019
+1. Continued reading chapter five of Deep Learning book by Ian Goodfellow as part of #sg_dl-goodfellows.
+
