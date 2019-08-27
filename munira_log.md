@@ -269,3 +269,6 @@ Finished reading chapter one of  Deep Learning book by Ian Goodfellow as part of
 
 ### Day 60: Aug 26, 2019
 1. Finished reading chapter five of Deep Learning book by Ian Goodfellow as part of #sg_dl-goodfellows.
+
+### Day 61: Aug 27, 2019
+Revised Deep Learning with pytorch lesson 2 from the Secure and Private AI course
