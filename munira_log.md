@@ -272,3 +272,9 @@ Finished reading chapter one of  Deep Learning book by Ian Goodfellow as part of
 
 ### Day 61: Aug 27, 2019
 Revised Deep Learning with pytorch lesson 2 from the Secure and Private AI course
+
+### Day 62: Aug 28, 2019
+1. Participated a virtual meetup with @Helena Barmer  @Seeratpal K. Jaura @Jess @Temitope Oladokun @Astha Adhikari @Labiba @Suparna S Nair @Shaistha to create Thank you video together.
+2. Participated a virtual meetup of #sg_dlstarguys to discuss the mathematics course.
+3. Participated a virtual meetup hosted by @Pranjal Chaubey for the DeepRacer reward function discussion.
+4. Participated a virtual meetup of the #sg_novice-ai hosted by @ayivima where @Anju Mercian @Shudipto Trafder and @Oudarjya Sen Sarma discussed THE FUTURE OF SECURE FEDERATED LEARNING AND ENCRYPTED DEEP LEARNING
