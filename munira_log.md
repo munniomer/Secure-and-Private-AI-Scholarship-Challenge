@@ -278,3 +278,7 @@ Revised Deep Learning with pytorch lesson 2 from the Secure and Private AI cours
 2. Participated a virtual meetup of #sg_dlstarguys to discuss the mathematics course.
 3. Participated a virtual meetup hosted by @Pranjal Chaubey for the DeepRacer reward function discussion.
 4. Participated a virtual meetup of the #sg_novice-ai hosted by @ayivima where @Anju Mercian @Shudipto Trafder and @Oudarjya Sen Sarma discussed THE FUTURE OF SECURE FEDERATED LEARNING AND ENCRYPTED DEEP LEARNING
+
+### Day 63: Aug 29, 2019
+Revised introducting differential privacy lesson 3 from the Secure and Private AI course
+
